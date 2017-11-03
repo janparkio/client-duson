@@ -1,8 +1,12 @@
+<link rel="stylesheet" type="text/css" media="all" href="custom/style.css" />
 # Duson
 #### Creative Park Client
 
 ---
 ### Website Information
+
+<img src="brand/images/duson-logo-dark.png" alt="Duson Logo type 1 dark" width="250">
+duson-logo-type1-dark
 
 ## Wordpress Development
 ### Credentials (v.1)
